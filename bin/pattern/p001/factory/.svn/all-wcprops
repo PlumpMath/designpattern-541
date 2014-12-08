@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory
+END
+App.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/App.class
+END
+Sender.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/app-test/search/lbs-stat/!svn/ver/5579/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/Sender.class
+END
+Sample.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/app-test/search/lbs-stat/!svn/ver/5430/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/Sample.class
+END
+SampleA.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/app-test/search/lbs-stat/!svn/ver/5430/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/SampleA.class
+END
+SampleB.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/app-test/search/lbs-stat/!svn/ver/5430/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/SampleB.class
+END
+MailSender.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/app-test/search/lbs-stat/!svn/ver/5579/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/MailSender.class
+END
+Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/app-test/search/lbs-stat/!svn/ver/5580/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/Factory.class
+END
+MsgSender.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/app-test/search/lbs-stat/!svn/ver/5579/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/MsgSender.class
+END
+PackageTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/app-test/search/lbs-stat/!svn/ver/5434/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory/PackageTest.class
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory
+END
+MsgFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/MsgFactory.java
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/App.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/Sender.java
+END
+MailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/MailSender.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/Factory.java
+END
+MsgSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/MsgSender.java
+END
+MailFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app-test/search/lbs-stat/!svn/ver/5649/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p002/abstractfactory/MailFactory.java
+END
