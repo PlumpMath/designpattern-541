@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/app-test/search/lbs-stat/!svn/ver/5690/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p003/singleton
+END
+SingletonLH.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/app-test/search/lbs-stat/!svn/ver/5690/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p003/singleton/SingletonLH.class
+END
+SingletonNew$HoldInstance.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app-test/search/lbs-stat/!svn/ver/5690/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p003/singleton/SingletonNew$HoldInstance.class
+END
+SingletonNew.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/app-test/search/lbs-stat/!svn/ver/5690/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p003/singleton/SingletonNew.class
+END
+SingletonEH.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/app-test/search/lbs-stat/!svn/ver/5690/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p003/singleton/SingletonEH.class
+END
