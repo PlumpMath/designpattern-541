@@ -1,7 +1,7 @@
 10
 
 dir
-5686
+5689
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/singleton
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
-
-SingletonNew.class
-file
-
-
-
-
-2014-12-04T02:25:58.000000Z
-1738a66cf9cc6acc704fff1d452ff182
-2014-12-04T02:23:12.920773Z
-5578
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1089
 
 Singleton.class
 file
@@ -127,4 +93,38 @@ has-props
 
 
 717
+
+SingletonNew.class
+file
+
+
+
+
+2014-12-04T02:25:58.000000Z
+1738a66cf9cc6acc704fff1d452ff182
+2014-12-04T02:23:12.920773Z
+5578
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1089
 
