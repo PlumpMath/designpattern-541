@@ -1,14 +1,14 @@
 10
 
 dir
-5719
+5730
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p005/prototype
 https://svn.baidu.com/app-test/search/lbs-stat
 
 
 
-2014-12-10T02:18:14.786355Z
-5701
+2014-12-10T14:01:48.959404Z
+5730
 yangjun03
 
 
@@ -93,4 +93,38 @@ yangjun03
 
 
 682
+
+SerialCopy.java
+file
+
+
+
+
+2014-12-10T14:02:02.000000Z
+9eb76d3e93f0705ea7e5a52cb1af8eb4
+2014-12-10T14:01:48.959404Z
+5730
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2044
 
