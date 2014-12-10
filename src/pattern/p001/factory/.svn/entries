@@ -1,7 +1,7 @@
 10
 
 dir
-5703
+5719
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p001/factory
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
-
-MailSender.java
-file
-
-
-
-
-2014-12-04T02:25:58.000000Z
-8f7abbb676eb3bec7c56ae79a2fae608
-2014-12-04T02:25:28.117752Z
-5579
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-414
 
 Factory.java
 file
@@ -195,4 +161,38 @@ yangjun03
 
 
 90
+
+MailSender.java
+file
+
+
+
+
+2014-12-04T02:25:58.000000Z
+8f7abbb676eb3bec7c56ae79a2fae608
+2014-12-04T02:25:28.117752Z
+5579
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+414
 
