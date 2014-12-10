@@ -1,7 +1,7 @@
 10
 
 dir
-5690
+5703
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p003/singleton
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
+
+SingletonEH.class
+file
+
+
+
+
+2014-12-09T03:55:51.000000Z
+3a5f681d4b00779e5c474f266ba923a5
+2014-12-09T03:55:37.406809Z
+5690
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1027
 
 SingletonLH.class
 file
@@ -127,38 +161,4 @@ has-props
 
 
 1051
-
-SingletonEH.class
-file
-
-
-
-
-2014-12-09T03:55:51.000000Z
-3a5f681d4b00779e5c474f266ba923a5
-2014-12-09T03:55:37.406809Z
-5690
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1027
 
