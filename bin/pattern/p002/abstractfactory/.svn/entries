@@ -1,7 +1,7 @@
 10
 
 dir
-5730
+5748
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p002/abstractfactory
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
+
+Factory.class
+file
+
+
+
+
+2014-12-05T05:40:13.000000Z
+9d1920758c40bdea5f79f39660f5be63
+2014-12-05T05:38:56.895347Z
+5649
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+184
+
+MsgSender.class
+file
+
+
+
+
+2014-12-05T05:40:13.000000Z
+f4e309aa755c2ff6a8bb256e5808223e
+2014-12-05T05:38:56.895347Z
+5649
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+587
 
 MailFactory.class
 file
@@ -195,72 +263,4 @@ has-props
 
 
 591
-
-Factory.class
-file
-
-
-
-
-2014-12-05T05:40:13.000000Z
-9d1920758c40bdea5f79f39660f5be63
-2014-12-05T05:38:56.895347Z
-5649
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-184
-
-MsgSender.class
-file
-
-
-
-
-2014-12-05T05:40:13.000000Z
-f4e309aa755c2ff6a8bb256e5808223e
-2014-12-05T05:38:56.895347Z
-5649
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-587
 

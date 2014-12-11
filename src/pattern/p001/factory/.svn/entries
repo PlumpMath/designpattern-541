@@ -1,7 +1,7 @@
 10
 
 dir
-5730
+5748
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p001/factory
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
+
+Factory.java
+file
+
+
+
+
+2014-12-04T02:30:18.000000Z
+abc3ee9c19b4ad3826c171df26128bd5
+2014-12-04T02:30:13.846125Z
+5580
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1008
+
+MsgSender.java
+file
+
+
+
+
+2014-12-04T02:25:58.000000Z
+bf1a84c89a20f05a65c11ac849ec8530
+2014-12-04T02:25:28.117752Z
+5579
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+411
 
 App.java
 file
@@ -127,72 +195,4 @@ yangjun03
 
 
 414
-
-Factory.java
-file
-
-
-
-
-2014-12-04T02:30:18.000000Z
-abc3ee9c19b4ad3826c171df26128bd5
-2014-12-04T02:30:13.846125Z
-5580
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1008
-
-MsgSender.java
-file
-
-
-
-
-2014-12-04T02:25:58.000000Z
-bf1a84c89a20f05a65c11ac849ec8530
-2014-12-04T02:25:28.117752Z
-5579
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-411
 
