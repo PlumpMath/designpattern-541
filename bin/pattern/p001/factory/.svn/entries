@@ -1,7 +1,7 @@
 10
 
 dir
-5753
+5754
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p001/factory
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
-
-App.class
-file
-
-
-
-
-2014-12-05T05:40:12.000000Z
-93b376b7887f09037bcf8b0cac35e6d9
-2014-12-05T05:38:56.895347Z
-5649
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-935
-
-Sender.class
-file
-
-
-
-
-2014-12-04T02:25:58.000000Z
-95816850eb5d95d722ec9d6531b697db
-2014-12-04T02:25:28.117752Z
-5579
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-135
 
 Sample.class
 file
@@ -331,4 +263,72 @@ has-props
 
 
 855
+
+App.class
+file
+
+
+
+
+2014-12-05T05:40:12.000000Z
+93b376b7887f09037bcf8b0cac35e6d9
+2014-12-05T05:38:56.895347Z
+5649
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+935
+
+Sender.class
+file
+
+
+
+
+2014-12-04T02:25:58.000000Z
+95816850eb5d95d722ec9d6531b697db
+2014-12-04T02:25:28.117752Z
+5579
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+135
 
