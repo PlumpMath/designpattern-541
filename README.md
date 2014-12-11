@@ -15,3 +15,4 @@ design pattern for java
 * pattern.p006.adapter.jar                : 适配器模式（对接）。
 * pattern.p007.decorator.jar              : 装饰器模式（包装增强）。
 * pattern.p008.proxy.jar                  : 代理模式（中介调用）。
+* pattern.p009.facade.jar                 : 外观模式（控制面板）。
