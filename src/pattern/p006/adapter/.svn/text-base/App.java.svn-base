@@ -9,7 +9,8 @@ public class App {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         Target t = new Adapter();
-        t.method1();t.method2();
+        t.method1();
+        t.method2();
     }
 
 }

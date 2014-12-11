@@ -1,7 +1,7 @@
 10
 
 dir
-5754
+5755
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p001/factory
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
+
+App.java
+file
+
+
+
+
+2014-12-05T05:40:12.000000Z
+4dd6a08612a0e29b7291c6f6a7be5a90
+2014-12-05T05:38:56.895347Z
+5649
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+547
+
+Sender.java
+file
+
+
+
+
+2014-12-04T02:25:58.000000Z
+fe5e800ac71d1bbaf2b1603f3f128965
+2014-12-04T02:25:28.117752Z
+5579
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+90
 
 MailSender.java
 file
@@ -127,72 +195,4 @@ yangjun03
 
 
 411
-
-App.java
-file
-
-
-
-
-2014-12-05T05:40:12.000000Z
-4dd6a08612a0e29b7291c6f6a7be5a90
-2014-12-05T05:38:56.895347Z
-5649
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-547
-
-Sender.java
-file
-
-
-
-
-2014-12-04T02:25:58.000000Z
-fe5e800ac71d1bbaf2b1603f3f128965
-2014-12-04T02:25:28.117752Z
-5579
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-90
 

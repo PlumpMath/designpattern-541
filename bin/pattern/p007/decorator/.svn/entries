@@ -1,14 +1,14 @@
 10
 
 dir
-5754
+5755
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p007/decorator
 https://svn.baidu.com/app-test/search/lbs-stat
 
 
 
-2014-12-11T11:26:07.607568Z
-5753
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2014-12-11T11:26:35.000000Z
-fe59334e362295091bb62d8e065cd734
-2014-12-11T11:26:07.607568Z
-5753
+2014-12-11T11:52:44.000000Z
+13524f4a74a553c97cf2dde9e872afcf
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-685
+736
 
 InterfaceA.class
 file
@@ -161,4 +161,38 @@ has-props
 
 
 772
+
+DecoratorB.class
+file
+
+
+
+
+2014-12-11T11:52:44.000000Z
+d45e75e670dacc6eb0bbbf97d9617111
+2014-12-11T11:52:29.637461Z
+5755
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+799
 

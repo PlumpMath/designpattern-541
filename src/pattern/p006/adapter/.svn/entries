@@ -1,14 +1,14 @@
 10
 
 dir
-5754
+5755
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p006/adapter
 https://svn.baidu.com/app-test/search/lbs-stat
 
 
 
-2014-12-11T09:48:01.747421Z
-5748
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2014-12-11T09:48:20.000000Z
-fa133ea4a03749d33562ea29a0dd41f4
-2014-12-11T09:48:01.747421Z
-5748
+2014-12-11T11:52:44.000000Z
+5f9eef53c05f9300f8f23438c5aa652b
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 
 
@@ -92,7 +92,7 @@ yangjun03
 
 
 
-304
+314
 
 AAA.java
 file

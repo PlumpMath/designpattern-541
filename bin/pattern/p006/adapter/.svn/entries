@@ -1,14 +1,14 @@
 10
 
 dir
-5754
+5755
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern/p006/adapter
 https://svn.baidu.com/app-test/search/lbs-stat
 
 
 
-2014-12-11T09:48:01.747421Z
-5748
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2014-12-11T09:48:21.000000Z
-80f86a4a690696ba2bab6c4df7fa1687
-2014-12-11T09:48:01.747421Z
-5748
+2014-12-11T11:52:44.000000Z
+70b8290bd92f4a8194a4658abf3a370d
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-584
+588
 
 AAA.class
 file

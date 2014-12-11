@@ -1,14 +1,14 @@
 10
 
 dir
-5754
+5755
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/bin/pattern
 https://svn.baidu.com/app-test/search/lbs-stat
 
 
 
-2014-12-11T11:41:01.319577Z
-5754
+2014-12-11T11:52:29.637461Z
+5755
 yangjun03
 
 
@@ -26,6 +26,12 @@ yangjun03
 
 f4274961-963c-4867-a4ef-339537d76bc5
 
+p008
+dir
+
+p001
+dir
+
 p002
 dir
 
@@ -42,11 +48,5 @@ p006
 dir
 
 p007
-dir
-
-p008
-dir
-
-p001
 dir
 
