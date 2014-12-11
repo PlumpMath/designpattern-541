@@ -1,7 +1,7 @@
 10
 
 dir
-5755
+5756
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p006/adapter
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
+
+Target.java
+file
+
+
+
+
+2014-12-11T09:48:20.000000Z
+ff64486b12bb58dd2e6d49e5eb436d1a
+2014-12-11T09:48:01.747421Z
+5748
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+119
 
 Adapter.java
 file
@@ -127,38 +161,4 @@ yangjun03
 
 
 231
-
-Target.java
-file
-
-
-
-
-2014-12-11T09:48:20.000000Z
-ff64486b12bb58dd2e6d49e5eb436d1a
-2014-12-11T09:48:01.747421Z
-5748
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-119
 
