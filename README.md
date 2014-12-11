@@ -14,3 +14,4 @@ design pattern for java
 * pattern.p005.prototype.serialcopy.jar   : 原型模式（反序列化方式实现深拷贝）。
 * pattern.p006.adapter.jar                : 适配器模式（对接）。
 * pattern.p007.decorator.jar              : 装饰器模式（包装增强）。
+* pattern.p008.proxy.jar                  : 代理模式（中介调用）。
