@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/app-test/search/lbs-stat/!svn/ver/5753/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p007/decorator
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/app-test/search/lbs-stat/!svn/ver/5753/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p007/decorator/A.java
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/app-test/search/lbs-stat/!svn/ver/5753/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p007/decorator/App.java
+END
+InterfaceA.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/app-test/search/lbs-stat/!svn/ver/5753/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p007/decorator/InterfaceA.java
+END
+Decorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/app-test/search/lbs-stat/!svn/ver/5753/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p007/decorator/Decorator.java
+END
