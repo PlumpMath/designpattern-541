@@ -1,7 +1,7 @@
 10
 
 dir
-5756
+5763
 https://svn.baidu.com/app-test/search/lbs-stat/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p003/singleton
 https://svn.baidu.com/app-test/search/lbs-stat
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 f4274961-963c-4867-a4ef-339537d76bc5
-
-SingletonNew.java
-file
-
-
-
-
-2014-12-09T03:41:27.000000Z
-5ab521812891dc485e3bc2d508d4840b
-2014-12-09T03:41:02.645352Z
-5689
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-894
 
 SingletonEH.java
 file
@@ -127,4 +93,38 @@ yangjun03
 
 
 898
+
+SingletonNew.java
+file
+
+
+
+
+2014-12-09T03:41:27.000000Z
+5ab521812891dc485e3bc2d508d4840b
+2014-12-09T03:41:02.645352Z
+5689
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+894
 

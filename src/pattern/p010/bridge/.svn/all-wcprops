@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge/App.java
+END
+Pen.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge/Pen.java
+END
+Brush.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge/Brush.java
+END
+DrawColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge/DrawColor.java
+END
+DrawColorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge/DrawColorInterface.java
+END
+Tool.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/app-test/search/lbs-stat/!svn/ver/5763/trunk/upps_test/jenkinsFramework/DesignPattern/src/pattern/p010/bridge/Tool.java
+END
