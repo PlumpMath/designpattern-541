@@ -17,4 +17,3 @@ design pattern for java
 * pattern.p008.proxy.jar                  : 代理模式（中介调用）。
 * pattern.p009.facade.jar                 : 外观模式（控制面板）。
 * pattern.p010.bridge.jar                 : 桥接模式（分离抽象与行为）。
-
